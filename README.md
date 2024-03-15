@@ -15,3 +15,9 @@
 
 # 效果图
 ![image](./chatroom.gif)
+
+# 学习内容
+1. 原生node实现tcp服务与客户端通信
+2. 了解tcp连接的三次握手
+3. 了解tcp连接的断开
+4. 了解node中的net模块
